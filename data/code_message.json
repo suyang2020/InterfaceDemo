@@ -1,0 +1,14 @@
+{
+  "/pos/order/submitOrder":
+    {
+      "0": "交易成功",
+      "400": "bad request",
+      "1001": "上传参数错误"
+    },
+  "/pos/order/queryOrder":
+    {
+      "0": "交易成功",
+      "400": "bad request",
+      "103": "暂无数据"
+    }
+}
