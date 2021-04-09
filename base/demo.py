@@ -1,7 +1,7 @@
 import requests
 
 data = {
-    "bankSerialNumber": "123456711111111111111",
+    "bankSerialNumber": "123456711111111111222",
     "bankCode": "0051",
     "cardType": 1,
     "backgroupColor": "1",
