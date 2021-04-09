@@ -3,7 +3,7 @@ import requests
 data = {
     "bankSerialNumber": "123456711111111111111",
     "bankCode": "0051",
-    "cardType": 2,
+    "cardType": 1,
     "backgroupColor": "1",
     "cardTechnology": 1,
     "cardSubject": 1,
